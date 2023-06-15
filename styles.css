@@ -1,0 +1,130 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  /* Estilos do banner */
+  #banner {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    padding: 150px 0;
+  }
+  
+  #banner h2 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+  }
+  
+  #banner p {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 1.5;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+  /* Estilos da seção "Sobre a Escola" */
+  #about {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Estilos da seção "Nossos Cursos" */
+  #courses {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+  }
+  
+  #courses h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  #courses ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #courses li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
