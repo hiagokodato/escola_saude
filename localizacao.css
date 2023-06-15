@@ -1,44 +1,22 @@
-/* Estilos para a página de localização */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: white;
-    color: green;
-    padding: 20px;
-  }
-  
-  header h1 {
-    margin: 0;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  nav ul li {
-    display: inline;
-    margin-right: 10px;
-  }
-  
-  nav ul li a {
-    color: green;
-    text-decoration: none;
-  }
-  
-  section#content {
-    padding: 20px;
-  }
-  
-  footer {
-    background-color: white;
-    color: green;
-    padding: 10px;
-    text-align: center;
-  }
-  
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Site - Contato</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <!-- Conteúdo do cabeçalho aqui -->
+  </header>
+
+  <section id="contact">
+    <!-- Conteúdo do formulário de contato aqui -->
+  </section>
+
+  <footer>
+    <!-- Conteúdo do rodapé aqui -->
+  </footer>
+</body>
+</html>
